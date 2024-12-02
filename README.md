@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Aziz Ben Amira  
 
-Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist**, currently pursuing my studies in Paris, France. My work revolves around solving challenging problems through cutting-edge technologies and impactful data-driven solutions.  
+Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist enthusiast**, currently pursuing my studies in Paris, France. My work revolves around solving challenging problems through cutting-edge technologies and impactful data-driven solutions.  
 
 ---
 
@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist*
 
 ### 🛠 **Technical Skills**
 
-- **Programming Languages**: Python, MATLAB, Octave, R  
+- **Programming Languages**: Python, MATLAB, Matlab, JavaScript, Html, Css 
 - **Data Science Tools**: Pandas, NumPy, Seaborn, Statsmodels  
-- **Machine Learning Frameworks**: Scikit-learn, PyTorch, TensorFlow  
-- **Natural Language Processing**: spaCy, NLTK  
+- **Machine Learning Frameworks**: Scikit-learn, PyTorch,
+- **Natural Language Processing**: spaCy, NLTK, Hugging Face Transformers
 - **Reinforcement Learning**: Gymnasium  
 - **Version Control**: Git, GitHub  
-- **Other**: WordPress, APIs, Octave-to-MATLAB translation  
+- **Other**: WordPress, React , Node JS , Express JS   
 
 ---
 
@@ -37,9 +37,8 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist*
 
 ### 🌟 **Highlighted Projects**
 
-- **[Project Name](#)** - A brief description of your project, its goals, and tech stack.
-- **[Project Name](#)** - A brief description of your project, its goals, and tech stack.
-
+- **Autonomous Vehicle Parking System(#)** - Development of an autonomous parking robot using deep learning and computer vision for obstacle detection and trajectory planning.
+- **ShortestPathFinder(#)** - Application developed in C as a team of three, enabling the calculation of the shortest path between two or more points on an interactive map using OSM GPS Map and Dijkstra's algorithm.
 ---
 
 ### 🏆 **Achievements**
@@ -52,10 +51,10 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist*
 
 ### 📫 **Get in Touch**
 
-- **Website**: [yourwebsite.com](https://yourwebsite.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- **Website**: [aziz.benamira.com](https://azizbenamira.netlify.app)  
+- **LinkedIn**: [linkedin.com/aziz-benamira](https://www.linkedin.com/in/aziz-ben-amira/)  
+- **Email**: [aziz.benamira1@gmail.com](mailto:aziz.benamira1@gmail.com)  
+- **Twitter**: [@Aziz_Ben_Amira]([https://twitter.com/yourhandle](https://x.com/Aziz_Ben_Amira))  
 
 ---
 
