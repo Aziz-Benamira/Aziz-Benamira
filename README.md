@@ -1,4 +1,6 @@
-# 👋 Hello, World! I'm Aziz Ben Amira  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1> 
 
 Welcome to my GitHub profile! I'm a passionate **AI Engineer and Data Scientist enthusiast**, currently pursuing my studies in Paris, France. My work revolves around solving challenging problems through cutting-edge technologies and impactful data-driven solutions.  
 
