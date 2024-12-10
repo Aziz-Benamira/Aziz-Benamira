@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **an autonomous parking vehicle for the UTAC 2024 Challenge**
 
-🌱 I’m currently learning **Natural Language Processing (NLP), Reinforcement Learning, and Autonomous Systems**
+🌱 I’m currently learning **Deep Learning, LLM's Transformers, and reinforcement Learning**
 
 💬 Ask me about **Python, Machine Learning, Deep Learning, or anything [here](https://github.com/yourusername/yourusername/issues)**
 
