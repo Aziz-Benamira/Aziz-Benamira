@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Deep Learning, LLM's Transformers, and reinforcement Learning**
 
-💬 Ask me about **Python, Machine Learning, Deep Learning, or anything [here](https://github.com/yourusername/yourusername/issues)**
+💬 Ask me about **Python, Machine Learning, Deep Learning, or anything  [here](https://github.com/yourusername/yourusername/issues)**
 
 ⚡ Fun fact: **Did you know? Paris is often called the "City of Light" because it was one of the first cities to have street lighting!**
 
